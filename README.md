@@ -2,9 +2,9 @@
 <p>
 </p>
 
-> Analysis of diabetes dataset using supervised and unsupervised machine learning to gain insights and predict the presence of diabates
+ Analysis of diabetes dataset using supervised and unsupervised machine learning to gain insights and predict the presence of diabates
 
-## Author
+## Authors
 
 👤 **Michal Červnika, Filip Dvořák, Dominik Šimon, Tomáš Jareš**
 
